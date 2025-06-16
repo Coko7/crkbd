@@ -1,2 +1,33 @@
-# crkbd
+# ⌨️ crkbd
+
 VIAL config for my Corne (foostan/crkbd) RGB keyboard. 
+The keyboard config is in [keymap.vil](./keymap.vil).
+
+## Keyboard Specs
+
+These are the specs for my keyboard:
+- Keyboard: [Corne (foostan/crkbd)](https://github.com/foostan/crkbd) (v4.1)
+- Firmware: [VIAL](https://get.vial.today/) ([QMK](https://github.com/qmk/qmk_firmware) fork)
+- Vendor: [Keebart](https://www.keebart.com/) ([keyboard reference](https://www.keebart.com/products/corne))
+- RGB Lighting: yes
+- QMK keyboard id: `crkbd/rev4_1`
+
+## Layout
+
+Default Layer:
+![Default Layer (Layer 0)](./images/layer_0.png)
+
+Layer 1:
+![Layer 1](./images/layer_1.png)
+
+Layer 2:
+![Layer 2](./images/layer_2.png)
+
+Layer 3:
+![Layer 3](./images/layer_3.png)
+
+These screenshots were taken directly from the VIAL desktop application: https://get.vial.today/download/
+
+## Images
+
+*Coming soon...*
