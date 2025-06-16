@@ -14,16 +14,16 @@ These are the specs for my keyboard:
 
 ## Layout
 
-Default Layer:
+**Default Layer:** Letters and common symbols
 ![Default Layer (Layer 0)](./images/layer_0.png)
 
-Layer 1:
+**Layer 1 (NavNum):** Numbers, navigation keys and media keys
 ![Layer 1](./images/layer_1.png)
 
-Layer 2:
+**Layer 2:** Function Keys (F1 - F20)
 ![Layer 2](./images/layer_2.png)
 
-Layer 3:
+**Layer 3:** Mouse actions and RGB control
 ![Layer 3](./images/layer_3.png)
 
 These screenshots were taken directly from the VIAL desktop application: https://get.vial.today/download/
