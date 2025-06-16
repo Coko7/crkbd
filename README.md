@@ -48,12 +48,12 @@ The layout comes with three main "layers":
 - [Alt Graph (Right Alt)](https://en.wikipedia.org/wiki/AltGr_key) modifier key for symbols (with easy to reach programming symbols)
 - [Dead Key](https://en.wikipedia.org/wiki/Dead_key) for diacritical marks (accents)
 
-It's a really cool project and it fits my use case perfecly!
+It's a really cool project and it fits my use case perfectly!
 
 I recommend taking a look at their website. It is full of useful information and also has some very good advice when it comes to learning a new keyboard layout.
 
 **Website:** https://ergol.org/
 
-## Images
+## Pictures
 
-*Coming soon...*
+![Keyboard Picture RGB Rainbow Glow](./images/crkbd_choc_rgb.jpg)
