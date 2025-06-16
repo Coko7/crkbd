@@ -28,6 +28,11 @@ Layer 3:
 
 These screenshots were taken directly from the VIAL desktop application: https://get.vial.today/download/
 
+> [!NOTE]
+> Regarding my "OS keyboard layout", I have recently moved over from QWERTY to [Ergo-L](https://ergol.org/).
+> Ergo-L is an ergonomic keyboard layout optimized for typing in French, English and with easy to access programming symbols.
+> It's a really cool project and it fits perfectly with my use case. It's worth checking out.
+
 ## Images
 
 *Coming soon...*
