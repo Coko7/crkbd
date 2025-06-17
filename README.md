@@ -1,12 +1,13 @@
 # ⌨️ crkbd
 
-VIAL config for my Corne (foostan/crkbd) RGB keyboard. 
+VIAL config for my Corne (foostan/crkbd) RGB keyboard.
 The keyboard config is in [keymap.vil](./keymap.vil).
 
 ## Keyboard Specs
 
 These are the specs for my keyboard:
 - Keyboard: [Corne (foostan/crkbd)](https://github.com/foostan/crkbd) (v4.1)
+- Total keys: 46 (3 × 6 + 5)
 - Firmware: [VIAL](https://get.vial.today/) ([QMK](https://github.com/qmk/qmk_firmware) fork)
 - Vendor: [Keebart](https://www.keebart.com/) ([keyboard reference](https://www.keebart.com/products/corne))
 - RGB Lighting: yes
@@ -43,9 +44,10 @@ I have recently moved from QWERTY over to [Ergo-L](https://ergol.org/).
 Similarly to [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) or [Colemack](https://en.wikipedia.org/wiki/Colemak), Ergo-L is an ergonomic keyboard layout.
 
 Ergo-L is well thought out and optimized for typing in French, English and offering an easy access to programming symbols.
-The layout comes with three main "layers":
-- Default layer for letters
-- [Alt Graph (Right Alt)](https://en.wikipedia.org/wiki/AltGr_key) modifier key for symbols (with easy to reach programming symbols)
+The layout comes with four main "layers":
+- Default layer for letters and other characters
+- [Shift](https://en.wikipedia.org/wiki/Shift_key) modifier for uppercase letters and other alternate characters
+- [Alt Graph (Right Alt)](https://en.wikipedia.org/wiki/AltGr_key) modifier for symbols (with easy to reach programming symbols)
 - [Dead Key](https://en.wikipedia.org/wiki/Dead_key) for diacritical marks (accents)
 
 It's a really cool project and it fits my use case perfectly!
@@ -53,6 +55,11 @@ It's a really cool project and it fits my use case perfectly!
 I recommend taking a look at their website. It is full of useful information and also has some very good advice when it comes to learning a new keyboard layout.
 
 **Website:** https://ergol.org/
+
+> [!NOTE]
+> If we consider both hardware and software layouts, it would give a total of seven different layers.
+> And if I were to map all of the main 36 keys in each layer, I could have **252 different keys**.
+> That's more than twice the amount of keys on a full size keyboard BUT with them being WAY closer together.
 
 ## Pictures
 
