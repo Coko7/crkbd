@@ -8,6 +8,8 @@ The keyboard config is in [keymap.vil](./keymap.vil).
 These are the specs for my keyboard:
 - Keyboard: [Corne (foostan/crkbd)](https://github.com/foostan/crkbd) (v4.1)
 - Total keys: 46 (3 × 6 + 5)
+- Switches: [Kailh Choc v1 Brown](https://chosfox.com/products/kailh-chocs)
+- Keycaps: [MBK Legend‡ Glow R2](https://fkcaps.com/keycaps/mbk/legend-glow-r2)
 - Firmware: [VIAL](https://get.vial.today/) ([QMK](https://github.com/qmk/qmk_firmware) fork)
 - Vendor: [Keebart](https://www.keebart.com/) ([keyboard reference](https://www.keebart.com/products/corne))
 - RGB Lighting: yes
